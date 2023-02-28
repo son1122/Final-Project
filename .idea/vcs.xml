@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java/Main-P4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java/Main-P4 copy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java/Main-P4 copy/php-front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java/back" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java/back copy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java/back/java-back" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/php/Main-P4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/php/Main-P4/java-front" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,52 @@
+POST http://localhost:8085/insurance/buy
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJzZWxmIiwiZXhwIjoxNjc3Mzk2NDI3LCJpYXQiOjE2NzczOTI4MjcsInNjb3BlIjoiUk9MRV9VU0VSIiwidXNlcm5hbWUiOiJhc2QifQ._2Beby3RJXEjNiEfNm24ZTST-YHcdFUxMmHnusHryGM
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 221
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+id=123123&type=test11&auth=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJzZWxmIiwiZXhwIjoxNjc3MzgwMTg4LCJpYXQiOjE2NzczNzY1ODgsInNjb3BlIjoiUk9MRV9VU0VSIiwidXNlcm5hbWUiOiJ6aUxDVSJ9.CUyqeu-uO7IXIvFwJrvQWMTBTFzwiWw_QvQPbxM1UnI&registerId=1
+
+<> example-2.pdf
+
+###
+
+POST http://localhost:8085/insurance/buy
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJzZWxmIiwiZXhwIjoxNjc3Mzk2NDI3LCJpYXQiOjE2NzczOTI4MjcsInNjb3BlIjoiUk9MRV9VU0VSIiwidXNlcm5hbWUiOiJhc2QifQ._2Beby3RJXEjNiEfNm24ZTST-YHcdFUxMmHnusHryGM
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 221
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+id=123123&type=test11&auth=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJzZWxmIiwiZXhwIjoxNjc3MzgwMTg4LCJpYXQiOjE2NzczNzY1ODgsInNjb3BlIjoiUk9MRV9VU0VSIiwidXNlcm5hbWUiOiJ6aUxDVSJ9.CUyqeu-uO7IXIvFwJrvQWMTBTFzwiWw_QvQPbxM1UnI&registerId=1
+
+<> example-1.pdf
+
+###
+
+POST http://localhost:8085/insurance/buy
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJzZWxmIiwiZXhwIjoxNjc3Mzk2NDI3LCJpYXQiOjE2NzczOTI4MjcsInNjb3BlIjoiUk9MRV9VU0VSIiwidXNlcm5hbWUiOiJhc2QifQ._2Beby3RJXEjNiEfNm24ZTST-YHcdFUxMmHnusHryGM
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 221
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+id=123123&type=test11&auth=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJzZWxmIiwiZXhwIjoxNjc3MzgwMTg4LCJpYXQiOjE2NzczNzY1ODgsInNjb3BlIjoiUk9MRV9VU0VSIiwidXNlcm5hbWUiOiJ6aUxDVSJ9.CUyqeu-uO7IXIvFwJrvQWMTBTFzwiWw_QvQPbxM1UnI&registerId=1
+
+<> example.pdf
+
+###
+
+POST http://localhost:8085/insurance/buy
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-02-26T131505.404.json
+
+###
+

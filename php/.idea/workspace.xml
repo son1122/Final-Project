@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f31001a0-61c3-4a1b-a41e-d18540571b30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../328697733_1924259991255056_8648209662463959523_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screenshot 2566-02-20 at 17.41.51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screenshot 2566-02-20 at 17.41.58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screenshot 2566-02-20 at 17.52.28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__com_aayushatharva_brotli4j_brotli4j_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__com_aayushatharva_brotli4j_native_linux_aarch64_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__com_aayushatharva_brotli4j_native_linux_x86_64_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__com_aayushatharva_brotli4j_native_osx_aarch64_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__com_aayushatharva_brotli4j_native_osx_x86_64_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__com_aayushatharva_brotli4j_native_windows_x86_64_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__com_eatthepath_fast_uuid_0_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__com_github_ben_manes_caffeine_caffeine_2_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__com_github_scopt_scopt_2_13_3_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__com_softwaremill_quicklens_quicklens_2_13_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__com_tdunning_t_digest_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_13_2_6_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__com_typesafe_akka_akka_slf4j_2_13_2_6_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__com_typesafe_config_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__com_typesafe_scala_logging_scala_logging_2_13_3_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_burt_jmespath_core_0_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_burt_jmespath_jackson_0_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_app_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_charts_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_commons_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_commons_shared_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_commons_shared_unstable_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_core_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_core_java_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_graphite_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_http_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_http_client_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_http_java_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_jdbc_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_jdbc_java_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_jms_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_jms_java_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_jsonpath_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_mqtt_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_mqtt_java_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_netty_util_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_recorder_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_recorder_bc_shaded_1_71_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_redis_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_gatling_redis_java_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_gatling_highcharts_gatling_charts_highcharts_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_buffer_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_codec_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_codec_mqtt_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_common_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_handler_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_resolver_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_resolver_dns_classes_macos_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_resolver_dns_native_macos_osx_aarch_64_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_resolver_dns_native_macos_osx_x86_64_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_2_0_56_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_linux_aarch_64_2_0_56_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_linux_x86_64_2_0_56_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_osx_aarch_64_2_0_56_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_osx_x86_64_2_0_56_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_windows_x86_64_2_0_56_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_tcnative_classes_2_0_56_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_transport_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_transport_classes_epoll_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_aarch_64_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_pebbletemplates_pebble_3_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__io_suzaku_boopickle_2_13_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__javax_jms_javax_jms_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__net_debasishg_redisclient_2_13_3_42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__net_jodah_typetools_0_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__net_sf_saxon_Saxon_HE_10_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_flywaydb_flyway_core_5_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_jodd_jodd_lagarto_6_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_jodd_jodd_util_6_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_liquibase_liquibase_core_4_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_mapstruct_mapstruct_1_5_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_scala_lang_modules_scala_java8_compat_2_13_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_13_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_scala_lang_modules_scala_swing_2_13_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_scala_lang_scala_library_2_13_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_13_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_simpleflatmapper_lightning_csv_8_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_simpleflatmapper_sfm_util_8_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_7_9_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_1_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_typelevel_spire_macros_2_13_0_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.jpb/jpb-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.jpb/persistence-units.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/Main-P4 copy/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/Main-P4 copy/README.old.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/back copy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ngnix/data/database.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ngnix/data/logs/fallback_access.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ngnix/data/logs/fallback_error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ngnix/data/nginx/dummycert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ngnix/data/nginx/dummykey.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ngnix/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ngnix/gui/setup-repos.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/i18nSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main-P4/timeline.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Http/Middleware/TrustHosts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Http/Middleware/ValidateSignature.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Models/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/cors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/sanctum.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/resources/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../public.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandbox/hello-observability" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Admin-P4" beforeDir="false" afterPath="$PROJECT_DIR$/../Admin-P4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Customer-P4" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-P4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/Main-P4" beforeDir="false" afterPath="$PROJECT_DIR$/../java/Main-P4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/back" beforeDir="false" afterPath="$PROJECT_DIR$/../java/back" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4/src/component/Login/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4/src/component/Login/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4/src/component/Profile/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4/src/component/Profile/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4/src/component/Signup/Signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4/src/component/Signup/Signup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4/src/component/buy/Buy.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4/src/component/buy/Buy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4/src/component/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4/src/component/nav.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="UML Gantt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Main-P4" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ll1cGAA9mrfeJn35jllqsXqrgy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultPlantUmlFileTemplate": "UML Gantt",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/asd1122/Desktop/project_final/php",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="test | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/Admin-P4/test.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" editBeforeRun="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/Admin-P4/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.test | #1" />
+      <item itemvalue="Node.js.Unnamed" />
+      <item itemvalue="npm.start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.test | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f31001a0-61c3-4a1b-a41e-d18540571b30" name="Changes" comment="" />
+      <created>1676430932317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676430932317</updated>
+      <workItem from="1676430934459" duration="12997000" />
+      <workItem from="1676456068783" duration="20428000" />
+      <workItem from="1676699284204" duration="4734000" />
+      <workItem from="1677209840582" duration="70000" />
+      <workItem from="1677209931144" duration="689000" />
+      <workItem from="1677210725977" duration="693000" />
+      <workItem from="1677224434505" duration="1175000" />
+      <workItem from="1677228362947" duration="16262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

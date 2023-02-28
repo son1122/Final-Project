@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b4d047b-9a24-4b15-b98b-a19edf8d8630" name="Changes" comment="save">
+      <change afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/controller/insurance/buy/BuyInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/controller/insurance/buy/Screenshot 2566-02-20 at 17.41.51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/controller/insurance/buy/Screenshot 2566-02-20 at 17.41.58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/controller/insurance/buy/Screenshot 2566-02-20 at 17.52.28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/controller/insurance/buy/TSNBg3wSBdng7ijMhwZhSvINFirzSRzPVRQlLgBHteX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/controller/insurance/buy/policy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/controller/insurance/buy/public.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/controller/insurance/get/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/controller/insurance/get/health.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/controller/insurance/get/life.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/controller/insurance/get/property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/entity/AgentDataDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/entity/AgentDataMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/test.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/policy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/policy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tda/spring/back/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tda/spring/back/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tda/spring/back/controller/agentController/AgentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/controller/agentController/AgentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tda/spring/back/dto/AbstractDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tda/spring/back/entity/CustomerData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/entity/CustomerData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tda/spring/back/entity/Insurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/entity/Insurance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tda/spring/back/mapper/EntityMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tda/spring/back/repository/CustomerDataRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tda/spring/back/repository/CustomerDataRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="com.haulmont.jpb.JpaEntity" />
+        <option value="Interface" />
+        <option value="com.haulmont.jpb.NewClass" />
+        <option value="com.haulmont.jpb.NewInterface" />
+        <option value="Class" />
+        <option value="HTTP Request" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2LgGswS5XifH95cQKPQqdUUqzXw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DtoCreateDialog.HAS_SETTERS_INITIAL_INITIAL_PROP_KEY": "true",
+    "DtoCreateDialog.IS_FLUENT_SETTERS": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "ResultTool:SCAN_SERVICE_WITH_LIB": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/asd1122/Desktop/project_final/java/back/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "configurable.group.com.haulmont.jpb.tools",
+    "spring.configuration.checksum": "469bba0a564235dfceede42db14f17b0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/tda/spring/back/controller/insurance/buy" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/tda/spring/back" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tda.spring.back.service" />
+      <recent name="tda.spring.back.controller" />
+      <recent name="tda.spring.back.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BackApplication">
+    <configuration name="back-endpoints | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/back-endpoints.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="test | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/src/main/java/tda/spring/back/test.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="back [clean]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="Multirun" separateTabs="true" reuseTabsWithFailures="false" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="10.0">
+      <runConfiguration name="back [clean]" type="Maven" />
+      <runConfiguration name="BackApplication" type="Spring Boot" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="PORT" value="8085" />
+      </envs>
+      <module name="back" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tda.spring.back.BackApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.back-endpoints | #1" />
+      <item itemvalue="HTTP Request.test | #1" />
+      <item itemvalue="Maven.back [clean]" />
+      <item itemvalue="Multirun.Unnamed" />
+      <item itemvalue="Spring Boot.BackApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.test | #1" />
+        <item itemvalue="HTTP Request.back-endpoints | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringRepositoriesView">
+    <option name="searchInLibraries" value="true" />
+    <option name="showAllRepositoryMethods" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b4d047b-9a24-4b15-b98b-a19edf8d8630" name="Changes" comment="" />
+      <created>1676278112631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676278112631</updated>
+      <workItem from="1676285525162" duration="7199000" />
+      <workItem from="1676826260386" duration="27643000" />
+      <workItem from="1677095789580" duration="609000" />
+      <workItem from="1677098626146" duration="590000" />
+      <workItem from="1677217150151" duration="595000" />
+      <workItem from="1677224035494" duration="254000" />
+      <workItem from="1677224418812" duration="3796000" />
+      <workItem from="1677228355057" duration="67759000" />
+    </task>
+    <task id="LOCAL-00001" summary="try to add dependency">
+      <created>1676852490536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676852490536</updated>
+    </task>
+    <task id="LOCAL-00002" summary="crud admin login">
+      <created>1676860131013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676860131013</updated>
+    </task>
+    <task id="LOCAL-00003" summary="edit pom">
+      <created>1676863188488</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676863188488</updated>
+    </task>
+    <task id="LOCAL-00004" summary="can use get insurance">
+      <created>1676865462549</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676865462550</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add more crud">
+      <created>1676896563218</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676896563218</updated>
+    </task>
+    <task id="LOCAL-00006" summary="save">
+      <created>1677345880471</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677345880471</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="try to add dependency" />
+    <MESSAGE value="crud admin login" />
+    <MESSAGE value="edit pom" />
+    <MESSAGE value="can use get insurance" />
+    <MESSAGE value="add more crud" />
+    <MESSAGE value="save" />
+    <option name="LAST_COMMIT_MESSAGE" value="save" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.FileNotFoundException" package="java.io" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

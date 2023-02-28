@@ -1,0 +1,34 @@
+POST http://localhost:8000/api/subscribe
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+Content-Length: 175
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+--WebAppBoundary
+Content-Disposition: form-data; name="email"
+
+son_1122@hotmail.com
+--WebAppBoundary--
+
+<> 2023-02-15T150401.422.json
+
+###
+
+POST http://localhost:8000/api/subscribe
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+Content-Length: 175
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+--WebAppBoundary
+Content-Disposition: form-data; name="email"
+
+son_1122@hotmail.com
+--WebAppBoundary--
+
+<> 2023-02-15T150347.422.json
+
+###
+

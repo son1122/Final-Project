@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Project Files" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="190ab3bb-caf5-4792-93e3-3e8603c38eb8" name="FJAVA-9 add field value" comment="FJAVA-9 add field value">
+      <change afterPath="$PROJECT_DIR$/../328697733_1924259991255056_8648209662463959523_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screenshot 2566-02-20 at 17.41.51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screenshot 2566-02-20 at 17.41.58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screenshot 2566-02-20 at 17.52.28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurance.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aayushatharva_brotli4j_brotli4j_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aayushatharva_brotli4j_native_linux_aarch64_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aayushatharva_brotli4j_native_linux_x86_64_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aayushatharva_brotli4j_native_osx_aarch64_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aayushatharva_brotli4j_native_osx_x86_64_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aayushatharva_brotli4j_native_windows_x86_64_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_eatthepath_fast_uuid_0_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_ben_manes_caffeine_caffeine_2_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_scopt_scopt_2_13_3_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_softwaremill_quicklens_quicklens_2_13_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_tdunning_t_digest_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_13_2_6_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_slf4j_2_13_2_6_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_config_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_scala_logging_scala_logging_2_13_3_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_burt_jmespath_core_0_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_burt_jmespath_jackson_0_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_app_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_charts_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_commons_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_commons_shared_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_commons_shared_unstable_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_core_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_core_java_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_graphite_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_http_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_http_client_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_http_java_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_jdbc_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_jdbc_java_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_jms_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_jms_java_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_jsonpath_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_mqtt_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_mqtt_java_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_netty_util_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_recorder_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_recorder_bc_shaded_1_71_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_redis_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_gatling_redis_java_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_gatling_highcharts_gatling_charts_highcharts_3_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_mqtt_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_classes_macos_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_native_macos_osx_aarch_64_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_native_macos_osx_x86_64_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_2_0_56_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_linux_aarch_64_2_0_56_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_linux_x86_64_2_0_56_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_osx_aarch_64_2_0_56_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_osx_x86_64_2_0_56_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_windows_x86_64_2_0_56_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_tcnative_classes_2_0_56_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_epoll_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_aarch_64_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_87_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_pebbletemplates_pebble_3_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_suzaku_boopickle_2_13_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_jms_javax_jms_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_debasishg_redisclient_2_13_3_42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jodah_typetools_0_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_saxon_Saxon_HE_10_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_flywaydb_flyway_core_5_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_lagarto_6_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_util_6_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_liquibase_liquibase_core_4_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_5_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_java8_compat_2_13_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_13_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_swing_2_13_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_13_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_13_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_simpleflatmapper_lightning_csv_8_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_simpleflatmapper_sfm_util_8_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_7_9_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_1_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_typelevel_spire_macros_2_13_0_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jpb/jpb-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jpb/persistence-units.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main-P4 copy/src/component/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main-P4/src/component/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back copy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/controller/insurance/buy/BuyInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/controller/insurance/buy/Screenshot 2566-02-20 at 17.41.51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/controller/insurance/buy/Screenshot 2566-02-20 at 17.41.58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/controller/insurance/buy/Screenshot 2566-02-20 at 17.52.28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/controller/insurance/buy/TSNBg3wSBdng7ijMhwZhSvINFirzSRzPVRQlLgBHteX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/controller/insurance/buy/policy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/controller/insurance/buy/public.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/controller/insurance/get/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/controller/insurance/get/health.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/controller/insurance/get/life.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/controller/insurance/get/property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/entity/AgentDataDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/entity/AgentDataMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/test.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/src/main/resources/policy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ngnix/data/database.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ngnix/data/logs/fallback_access.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ngnix/data/logs/fallback_error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ngnix/data/nginx/dummycert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ngnix/data/nginx/dummykey.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ngnix/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ngnix/gui/setup-repos.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/.idea/i18nSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Http/Middleware/TrustHosts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Http/Middleware/ValidateSignature.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Models/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/config/cors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/config/sanctum.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/resources/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/back/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../public.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sandbox/hello-observability" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4 copy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4 copy/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4 copy/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4 copy/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4 copy/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4 copy/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4 copy/src/component/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4 copy/src/component/Dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4 copy/src/component/Login/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4 copy/src/component/Login/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4 copy/src/component/Navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4 copy/src/component/Navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4 copy/src/component/Profile/Profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4 copy/src/component/Profile/Profile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4 copy/src/component/Profile/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4 copy/src/component/Profile/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4 copy/src/component/Signup/Signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4 copy/src/component/Signup/Signup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4 copy/src/component/buy/Buy.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4 copy/src/component/buy/Buy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4 copy/src/component/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4 copy/src/component/nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4/src/component/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4/src/component/Dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4/src/component/Login/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4/src/component/Login/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4/src/component/Profile/Profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4/src/component/Profile/Profile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4/src/component/Profile/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4/src/component/Profile/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4/src/component/Signup/Signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4/src/component/Signup/Signup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main-P4/src/component/buy/Buy.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main-P4/src/component/buy/Buy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back" beforeDir="false" afterPath="$PROJECT_DIR$/back" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/back/policy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/controller/agentController/AgentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/controller/agentController/AgentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/dto/AbstractDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/entity/CustomerData.java" beforeDir="false" afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/entity/CustomerData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/entity/Insurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/entity/Insurance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/mapper/EntityMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/repository/CustomerDataRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/back/src/main/java/tda/spring/back/repository/CustomerDataRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../php/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php/Main-P4" beforeDir="false" afterPath="$PROJECT_DIR$/../php/Main-P4" afterDir="false" />
+    </list>
+    <list id="7276f4c3-7ace-43dc-96d0-ec4017ed04d8" name="Changes" comment="add all table need detail in join table">
+      <change beforePath="$PROJECT_DIR$/Admin-P4" beforeDir="false" afterPath="$PROJECT_DIR$/../Admin-P4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer-P4" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-P4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="com.haulmont.jpb.JpaEntity" />
+        <option value="com.haulmont.jpb.JpaRepository" />
+        <option value="Class" />
+        <option value="com.haulmont.jpb.NewClass" />
+        <option value="com.haulmont.jpb.NewInterface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/Main-P4" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Main-P4 copy" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isDesignerTabSelected" value="false" />
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LiAVGkyYKKGDzkFidcYiDx3Duq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "DtoCreateDialog.HAS_SETTERS_INITIAL_INITIAL_PROP_KEY": "true",
+    "DtoCreateDialog.IS_FLUENT_SETTERS": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/asd1122/Desktop/project_final/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.i18nally.jetbrainsideplugin.settings.AllyProjectConfigurable",
+    "spentTimePerTaskStorage.store": "{FJAVA-10=3420000, FJAVA-9=6300000, FJAVA-5=1993894}",
+    "spring.configuration.checksum": "469bba0a564235dfceede42db14f17b0",
+    "timeTracker.activityTracker": "com.github.jk1.ytplugin.timeTracker.ActivityTracker@fd56d0c",
+    "timeTracker.comment": "",
+    "timeTracker.inactivityPeriodInMills": "600000",
+    "timeTracker.isAutoTrackingEnable": "true",
+    "timeTracker.isAutoTrackingTemporaryDisabled": "false",
+    "timeTracker.isManualTrackingEnable": "false",
+    "timeTracker.isPaused": "true",
+    "timeTracker.isPostAfterCommitEnabled": "true",
+    "timeTracker.isPostedScheduled": "false",
+    "timeTracker.isRunning": "true",
+    "timeTracker.isScheduledEnabled": "false",
+    "timeTracker.isWhenProjectClosedEnabled": "false",
+    "timeTracker.issueId": "FJAVA-12",
+    "timeTracker.issueIdReadable": "FJAVA-12",
+    "timeTracker.pausedTime": "759303712",
+    "timeTracker.query": "",
+    "timeTracker.recordedTime": "1461",
+    "timeTracker.scheduledPeriod": "19:00:0",
+    "timeTracker.startTime": "1676726232721",
+    "timeTracker.timeInMills": "87715496",
+    "timeTracker.type": "Development",
+    "ts.external.directory.path": "/Users/asd1122/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/223.8617.44/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="tda.spring.back.entity" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tda.spring.back.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="HTTP Request.BackApplication | #1">
+    <configuration name="BackApplication | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/BackApplication.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="java-endpoints | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/java-endpoints.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="java-endpoints_1 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/java-endpoints_1.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="java-endpoints_2 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/java-endpoints_2.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="BackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="temurin-1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="back" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tda.spring.back.BackApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.java-endpoints_2 | #1" />
+        <item itemvalue="HTTP Request.java-endpoints_1 | #1" />
+        <item itemvalue="HTTP Request.java-endpoints | #1" />
+        <item itemvalue="HTTP Request.BackApplication | #1" />
+        <item itemvalue="HTTP Request.java-endpoints_1 | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="Default" summary="Default task">
+      <branch name="main" repository="$PROJECT_DIR$/Main-P4" original="true" />
+      <branch name="master" repository="$PROJECT_DIR$/back" original="true" />
+      <branch name="master" repository="$PROJECT_DIR$/.." original="true" />
+      <branch name="main" repository="$PROJECT_DIR$/Main-P4" original="true" />
+      <branch name="master" repository="$PROJECT_DIR$/back" original="true" />
+      <branch name="master" repository="$PROJECT_DIR$/.." original="true" />
+      <changelist id="7276f4c3-7ace-43dc-96d0-ec4017ed04d8" name="Changes" comment="" />
+      <created>1676278112631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676712740562</updated>
+      <workItem from="1676343552678" duration="18499000" />
+      <workItem from="1676364839535" duration="13381000" />
+      <workItem from="1676433937247" duration="2238000" />
+      <workItem from="1676456085307" duration="477000" />
+      <workItem from="1676460839920" duration="14225000" />
+      <workItem from="1676712725450" duration="16000" />
+    </task>
+    <task id="FJAVA-2" summary="Database Entity">
+      <branch name="origin/java" repository="$PROJECT_DIR$/Main-P4" />
+      <branch name="master" repository="$PROJECT_DIR$/back" original="true" />
+      <branch name="master" repository="$PROJECT_DIR$/.." original="true" />
+      <branch name="origin/java" repository="$PROJECT_DIR$/Main-P4" original="true" />
+      <branch name="master" repository="$PROJECT_DIR$/back" original="true" />
+      <branch name="master" repository="$PROJECT_DIR$/.." original="true" />
+      <created>1676640508336</created>
+      <option name="issue" value="true" />
+      <url>https://tonson.youtrack.cloud/issue/FJAVA-2</url>
+      <option name="number" value="2" />
+      <option name="presentableId" value="FJAVA-2" />
+      <option name="project" value="FJAVA" />
+      <updated>1676705570939</updated>
+      <workItem from="1676640764459" duration="1771000" />
+      <workItem from="1676695082704" duration="291000" />
+      <workItem from="1676695386981" duration="2857000" />
+      <workItem from="1676698590247" duration="548000" />
+      <workItem from="1676699158288" duration="1424000" />
+      <workItem from="1676703106813" duration="955000" />
+    </task>
+    <task id="FJAVA-5" summary="PDG Generator Test">
+      <branch name="main" repository="$PROJECT_DIR$/Main-P4" />
+      <branch name="main" repository="$PROJECT_DIR$/Main-P4" original="true" />
+      <branch name="master" repository="$PROJECT_DIR$/back" original="true" />
+      <branch name="master" repository="$PROJECT_DIR$/.." original="true" />
+      <created>1676700455381</created>
+      <option name="issue" value="true" />
+      <url>https://tonson.youtrack.cloud/issue/FJAVA-5</url>
+      <option name="number" value="5" />
+      <option name="presentableId" value="FJAVA-5" />
+      <option name="project" value="FJAVA" />
+      <updated>1676703071465</updated>
+      <workItem from="1676700587978" duration="1844000" />
+      <workItem from="1676702531329" duration="536000" />
+    </task>
+    <task id="LOCAL-00002" summary="finish mvp pdf generator">
+      <created>1676702120835</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676702120852</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add feild to all entity">
+      <branch name="main" repository="$PROJECT_DIR$/Main-P4" />
+      <created>1676702432157</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676702530415</updated>
+      <workItem from="1676702449196" duration="29000" />
+      <workItem from="1676702510273" duration="21000" />
+    </task>
+    <task id="FJAVA-9" summary="add field value">
+      <branch name="main" repository="$PROJECT_DIR$/Main-P4" />
+      <changelist id="190ab3bb-caf5-4792-93e3-3e8603c38eb8" name="FJAVA-9 add field value" comment="" />
+      <created>1676705294443</created>
+      <option name="issue" value="true" />
+      <url>https://tonson.youtrack.cloud/issue/FJAVA-9</url>
+      <option name="number" value="9" />
+      <option name="presentableId" value="FJAVA-9" />
+      <option name="project" value="FJAVA" />
+      <updated>1676712724980</updated>
+      <workItem from="1676705572959" duration="6396000" />
+    </task>
+    <task id="FJAVA-10" summary="test connection and query">
+      <branch name="main" repository="$PROJECT_DIR$/Main-P4" />
+      <branch name="main" repository="$PROJECT_DIR$/Main-P4" original="true" />
+      <branch name="master" repository="$PROJECT_DIR$/back" original="true" />
+      <branch name="master" repository="$PROJECT_DIR$/.." original="true" />
+      <created>1676712685511</created>
+      <option name="issue" value="true" />
+      <url>https://tonson.youtrack.cloud/issue/FJAVA-10</url>
+      <option name="number" value="10" />
+      <option name="presentableId" value="FJAVA-10" />
+      <option name="project" value="FJAVA" />
+      <updated>1676726207286</updated>
+      <workItem from="1676712741478" duration="10052000" />
+    </task>
+    <task active="true" id="FJAVA-12" summary="Auth Service">
+      <branch name="main" repository="$PROJECT_DIR$/Main-P4" />
+      <created>1676726176274</created>
+      <option name="issue" value="true" />
+      <url>https://tonson.youtrack.cloud/issue/FJAVA-12</url>
+      <option name="number" value="12" />
+      <option name="presentableId" value="FJAVA-12" />
+      <option name="project" value="FJAVA" />
+      <updated>1676726207286</updated>
+      <workItem from="1676726209281" duration="13246000" />
+      <workItem from="1677209837553" duration="73000" />
+      <workItem from="1677209921859" duration="709000" />
+      <workItem from="1677210733625" duration="9865000" />
+      <workItem from="1677224423554" duration="2075000" />
+      <workItem from="1677228351031" duration="63860000" />
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <option name="clearContext" value="false" />
+    <option name="createBranch" value="false" />
+    <option name="useBranch" value="true" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish mvp pdf generator" />
+    <MESSAGE value="FJAVA-9 add field value and repository" />
+    <MESSAGE value="add all table need detail in join table" />
+    <MESSAGE value="FJAVA-10 test connection and query" />
+    <MESSAGE value="connection is working but i cant tranfer child to json.solution is to create dto" />
+    <option name="LAST_COMMIT_MESSAGE" value="connection is working but i cant tranfer child to json.solution is to create dto" />
+  </component>
+</project>
